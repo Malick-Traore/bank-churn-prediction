@@ -191,4 +191,4 @@ Importer dans Power BI dans cet ordre :
 
 **Malick Traore** — [@Malick-Traore](https://github.com/Malick-Traore)
 
-**Linkedin** — [@Linkedin](www.linkedin.com/in/traore-malick) 
+**Linkedin** — [@Linkedin](https://www.linkedin.com/in/traore-malick) 
